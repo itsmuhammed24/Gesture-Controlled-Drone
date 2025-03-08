@@ -1,6 +1,6 @@
 # Gesture-Controlled Drone/Model Vehicle Using ESP32, Motion Sensors, and Machine Learning
 
-![](imag/esp32.jpg)
+![](img/esp32.jpg)
 
 ## Overview
 This project focuses on the development of a gesture-controlled drone or model vehicle using an ESP32 microcontroller, motion sensors (such as an accelerometer and gyroscope), and machine learning-based gesture recognition. The aim is to provide an intuitive control mechanism through hand gestures, enabling seamless drone navigation without traditional remote controllers.

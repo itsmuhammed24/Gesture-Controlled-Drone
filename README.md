@@ -18,7 +18,7 @@ This project focuses on the development of a gesture-controlled drone or model v
 - **Push buttons**
 - **OLED display**
 - **Wi-Fi/Bluetooth module**
-- **Drone or model vehicle**
+- **Drone**
 
 ## Software Tools
 - **Programming Languages**: C/C++ (Arduino IDE) or MicroPython
